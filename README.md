@@ -1,2 +1,7 @@
-# forkify-app
-This app is for searching recipes. The application was developed while studying online, a course by "Udemy".
+<img src="dist/img/logo.png" width="400">
+
+# How to run project:
+    $ git clone <project>
+    $ cd path/to/<project>
+    $ npm install 
+    $ npm start
